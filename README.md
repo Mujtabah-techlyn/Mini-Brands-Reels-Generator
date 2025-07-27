@@ -15,6 +15,17 @@ Whether you're showcasing **sneakers**, **coffee shops**, **luxury watches**, or
 - 📤 Uploads final videos directly to **YouTube** with titles and descriptions.
 - 📝 Tracks everything in **Google Sheets** for transparency and scalability.
 
+--- 
+## Example content
+
+https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/87e55c24-7811-4f02-a7ce-780008acccfc.mp4
+
+https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/966b509f-3bae-4339-95ae-12a7f28fc580.mp4
+
+https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/6e5e569f-b17f-42bb-818c-85a3e945b718.mp4
+
+https://f002.backblazeb2.com/file/creatomate-c8xg3hsxdu/6e5e569f-b17f-42bb-818c-85a3e945b718.mp4
+
 ---
 
 ## 🔧 Tools & APIs Used
