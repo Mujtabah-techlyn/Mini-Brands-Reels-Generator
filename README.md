@@ -1,3 +1,5 @@
+Client Requirement end-to-end project
+
 # 🎬 Mini Brands Reels Generator
 
 The **Mini Brands Reels Generator** is a fully automated AI-driven pipeline designed to create, render, and upload short-form viral videos for niche brands. Developed with a focus on scalability and automation, this system transforms brand data into engaging YouTube content with zero manual editing.
